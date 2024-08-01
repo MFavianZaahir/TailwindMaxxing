@@ -71,14 +71,3 @@ Jika kalian ingin membuat aplikasi multi-page, jalankan perintah ini:
 ### Lint Untuk Memperbaiki Kesalahan
 
 `npm run lint:fix` atau `yarn run lint:fix` atau `pnpm run lint:fix`
-
-## Tunjukan Support Kalian
-
-- Dengan cara memberi ⭐ jika kamu menyukai project ini
-- Dengan cara berkontribusi pada project ini untuk meningkatkan kualitas code
-
-# Social Media
-
-Tetap terhubung dengan saya melalui follow sosmed [Pandhu Arya](https://panntod.github.io/Project-Mandiri/linktree)
-
-> Happy Hacking 🤖
